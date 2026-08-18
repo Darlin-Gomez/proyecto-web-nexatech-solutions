@@ -25,4 +25,4 @@ Demostrar habilidades prácticas en contenido web estructurado, HTML5 semántico
 
 Proyecto de portafolio personal. NexaTech Solutions es una empresa ficticia creada con fines demostrativos.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
+
